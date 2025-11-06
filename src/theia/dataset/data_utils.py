@@ -1,4 +1,4 @@
-# Copyright (c) 2024 Boston Dynamics AI Institute LLC. All rights reserved.
+# Copyright (c) 2024 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 
 """Defines PyTorch datasets of dataloaders for multiple image, video, and OXE datasets.
 Should use with webdataset >= 0.2.90. See https://github.com/webdataset/webdataset/pull/347"""

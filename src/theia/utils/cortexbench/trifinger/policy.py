@@ -1,4 +1,4 @@
-# File modified. Modifications Copyright (c) 2024 Boston Dynamics AI Institute LLC. All rights reserved.
+# File modified. Modifications Copyright (c) 2024 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 # This source code is licensed under the CC-BY-NC license found in the

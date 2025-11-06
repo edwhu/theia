@@ -1,4 +1,4 @@
-# File modified. Modifications Copyright (c) 2024 Boston Dynamics AI Institute LLC. All rights reserved.
+# File modified. Modifications Copyright (c) 2024 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 
 """MIT License Copyright (c) 2023 Robotic AI & Learning Lab Berkeley
 
