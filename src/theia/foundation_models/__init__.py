@@ -1,4 +1,4 @@
-# Copyright (c) 2024 Boston Dynamics AI Institute LLC. All rights reserved.
+# Copyright (c) 2024 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 
 from .vision_language_models.clip import get_clip_feature, get_clip_model
 from .vision_language_models.llava import get_llava_vision_model, get_llava_visual_feature
