@@ -26,5 +26,8 @@ dependencies = [
     "tqdm",
 ]
 
+[project.optional-dependencies]
+jax = ["jax>=0.4.20", "jaxlib>=0.4.20", "flax>=0.10.0"]
+
 [tool.setuptools.packages.find]
 where = ["src"]
